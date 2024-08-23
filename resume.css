@@ -1,0 +1,27 @@
+div{
+    background-color: yellowgreen;
+    color: white;
+}
+.profile{
+    background-color: chocolate;
+    color: white;
+}
+.education{
+    background-color: blue;
+    color: white;
+}
+.project{
+    background-color: violet;
+    color: white;
+}
+.technical{
+    background-color: hotpink;
+    color: white;
+}
+.soft{
+    background-color: goldenrod;
+    color: ;
+}
+.declare{
+    background-color: tomato;
+}
